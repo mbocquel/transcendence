@@ -1,6 +1,8 @@
 # ft_transcendence
 A website for the mighty Pong contest
 
+Project done with [lanzaj](https://github.com/lanzaj), [Tibobobo](https://github.com/Tibobobo), [Pierrickjay](https://github.com/Pierrickjay) et [rertzer](https://github.com/rertzer)
+
 # Les .env a ajouter pour faire fonctionner le projet : 
 ## Dans ./
 - POSTGRES_PASSWORD=""
